@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/meshoreact/static/css/main.4761819b.css",
-    "main.js": "/meshoreact/static/js/main.e980ecdd.js",
-    "static/js/787.2a7a476f.chunk.js": "/meshoreact/static/js/787.2a7a476f.chunk.js",
-    "static/media/womenclothing.webp": "/meshoreact/static/media/womenclothing.43bbdf70f21ce7f59cb6.webp",
-    "static/media/cod.svg": "/meshoreact/static/media/cod.4c04d0a3d03c47e7904a1e8b47db7324.svg",
-    "static/media/mainImage.webp": "/meshoreact/static/media/mainImage.e40de0fff6972d38efda.webp",
-    "static/media/menStore.webp": "/meshoreact/static/media/menStore.2baaf3267be5827b5926.webp",
-    "static/media/freeDelivery.svg": "/meshoreact/static/media/freeDelivery.d9846832e8d6cbd506f5eba06741afac.svg",
-    "static/media/kidsStore.webp": "/meshoreact/static/media/kidsStore.013cd5389579ad42d194.webp",
-    "static/media/Meeshologo.svg": "/meshoreact/static/media/Meeshologo.0904b9dac4fac8521f3b4ff458be0531.svg",
-    "static/media/easyReturns.svg": "/meshoreact/static/media/easyReturns.0960a7656bc249c3ff1726c34e718833.svg",
-    "index.html": "/meshoreact/index.html",
-    "main.4761819b.css.map": "/meshoreact/static/css/main.4761819b.css.map",
-    "main.e980ecdd.js.map": "/meshoreact/static/js/main.e980ecdd.js.map",
-    "787.2a7a476f.chunk.js.map": "/meshoreact/static/js/787.2a7a476f.chunk.js.map"
+    "main.css": "/project/static/css/main.4761819b.css",
+    "main.js": "/project/static/js/main.254975e7.js",
+    "static/js/787.2a7a476f.chunk.js": "/project/static/js/787.2a7a476f.chunk.js",
+    "static/media/womenclothing.webp": "/project/static/media/womenclothing.43bbdf70f21ce7f59cb6.webp",
+    "static/media/cod.svg": "/project/static/media/cod.4c04d0a3d03c47e7904a1e8b47db7324.svg",
+    "static/media/mainImage.webp": "/project/static/media/mainImage.e40de0fff6972d38efda.webp",
+    "static/media/menStore.webp": "/project/static/media/menStore.2baaf3267be5827b5926.webp",
+    "static/media/freeDelivery.svg": "/project/static/media/freeDelivery.d9846832e8d6cbd506f5eba06741afac.svg",
+    "static/media/kidsStore.webp": "/project/static/media/kidsStore.013cd5389579ad42d194.webp",
+    "static/media/Meeshologo.svg": "/project/static/media/Meeshologo.0904b9dac4fac8521f3b4ff458be0531.svg",
+    "static/media/easyReturns.svg": "/project/static/media/easyReturns.0960a7656bc249c3ff1726c34e718833.svg",
+    "index.html": "/project/index.html",
+    "main.4761819b.css.map": "/project/static/css/main.4761819b.css.map",
+    "main.254975e7.js.map": "/project/static/js/main.254975e7.js.map",
+    "787.2a7a476f.chunk.js.map": "/project/static/js/787.2a7a476f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4761819b.css",
-    "static/js/main.e980ecdd.js"
+    "static/js/main.254975e7.js"
   ]
 }
