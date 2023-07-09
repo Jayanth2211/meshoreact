@@ -1,0 +1,39 @@
+.singup{
+    margin-top: 100px;
+    transform: translatex(100px);
+   
+  background-color: rgba(253, 232, 251, 0.811);
+   height:400px ;
+    width: 300px;
+}
+
+.otpBox p{
+    display: none;
+}
+input{
+    display: block;
+    margin: 10px 15px;
+    outline: none;
+
+   
+    
+}
+#otp{
+    background-color: darkblue;
+    
+    font-weight:400;
+   border: none;
+   border-radius: 10px;
+    margin: 5px 10px;
+    
+}
+#sign{
+    background-color:green;
+    color: white;
+    font-weight: bolder;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    
+}

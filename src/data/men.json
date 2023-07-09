@@ -1,0 +1,78 @@
+{
+    "men":[
+        {
+            "id":1,
+            "image":"https://images.meesho.com/images/products/238419409/vbpjp_400.webp",
+            "title":"Fancy Elegant",
+            "price":309,
+            "rating":3.8
+        },
+        {
+            "id":2,
+            "image":"https://images.meesho.com/images/products/282220934/letgj_400.webp",
+             "title":"Classic Modern",
+            "price":376,
+            "rating":3.7
+        },
+        
+        {
+            "id":3,
+            "image":"https://images.meesho.com/images/products/3868321/1_400.webp",
+             "title":"Eva Elegant",
+            "price":468,
+            "rating":4.1
+        },
+        {
+            "id":4,
+            "image":"https://images.meesho.com/images/products/270907858/kzx1n_400.webp",
+             "title":"Classic Latest",
+            "price":399,
+            "rating":4.5
+        },
+        {
+            "id":5,
+            "image":"https://images.meesho.com/images/products/228015959/7xgvh_400.webp",
+             "title":"Fancy Modern",
+            "price":315,
+            "rating":3.8
+        },
+        {
+            "id":6,
+            "image":"https://images.meesho.com/images/products/80084460/sjbvd_400.webp",
+             "title":"Comfy Ravishing",
+            "price":232,
+            "rating":3.2
+        },
+        
+        {
+            "id":7,
+            "image":"https://images.meesho.com/images/products/240406763/y1brn_400.webp",
+             "title":"Trendy Elegant",
+            "price":181,
+            "rating":3.6
+        },
+        {
+            "id":8,
+            "image":"https://images.meesho.com/images/products/278021895/8ouut_400.webp",
+             "title":"Trendy Elegant",
+            "price":155,
+            "rating":3.9
+        },
+        {
+            "id":9,
+            "image":"https://images.meesho.com/images/products/243295022/hh3kx_400.webp",
+             "title":"Designer Unique Men",
+            "price":1208,
+            "rating":4.1
+        },
+        {
+            "id":10,
+            "image":"https://images.meesho.com/images/products/283786706/eitli_400.webp",
+             "title":"Designer Fabulous Men",
+            "price":1208,
+            "rating":3.9
+        }
+
+    ]
+    
+}

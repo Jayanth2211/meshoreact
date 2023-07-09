@@ -1,0 +1,231 @@
+.navbar{
+  
+display: flex;
+    align-items: center;
+    justify-content: space-between;
+   color: white;
+    box-shadow: 1px 1px 1px white;
+  height: 70px;
+
+   
+   
+  
+}
+.parentNav{
+    position: sticky;
+    top: 0px;
+    padding: 1px 0px;
+    background-color:#152737 ;
+}
+.logo img{
+    height: 245%;
+    width: 500%;
+}
+.logo{
+ 
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.serchbar img{
+    height: 23px;
+   width: 23px;
+}
+.serchbar input{
+   
+    height: 25px;
+    width: 290px;
+  
+   border: none;
+  
+   outline: none;
+}
+.navbar a{
+    font-size: 15px;
+}
+.serchbar{
+    color: black;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 5px;
+  
+}
+.conn a{
+    text-decoration: none;
+    color:white;
+    font-size: 13px;
+    font-weight: 500;
+}
+.download{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin: 0px 10px;
+     height: 60px;
+    
+    
+   
+    
+}
+.downConntent{
+  display: none;
+  background-color: black;
+  color:white;
+ 
+    }
+.download1:hover{
+    .downConntent{
+     
+    display: flow-root;
+    transform: translatey(0px);
+    width: 150px;
+  position: fixed;
+    text-align: center;
+    }
+     }
+     .download:hover{
+        color:rgb(244, 51, 151) ;
+        border-bottom: 3px rgb(244, 51, 151) solid;
+     }
+    
+       
+   
+
+
+.suplier{
+    margin: 0px 20px;
+}
+
+
+.download span{
+   color: white;
+}
+
+
+.mobil{
+    border: 1px solid;
+}
+.profile img{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+.conn{
+    display: flex;
+    align-items: center;
+    
+}
+.profile{
+   padding-top: 10px;
+    height: 60px;
+    text-align: center;
+   margin: 0px 10px;
+}
+
+.profile a{
+    display: block;
+ 
+}
+.profileAll span{
+    color: white;
+}
+.profileInside{
+   
+    position: fixed;
+    display: none;
+    margin-top: 1px;
+    padding: 5px;
+    background-color:whitesmoke;
+   transform: translatex(-40px);
+}
+.profileAll:hover{
+    .profileInside{
+        display: flow-root;
+    }
+    .profile{
+        border-bottom: 3px rgb(244, 51, 151) solid;
+    }
+}
+.profileInside button{
+    background-color:rgb(244, 51, 151) ;
+    display: block;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: none;
+   margin-left: 20px;
+    color: white;
+    font-size: 15px;
+
+}
+
+.cart{
+    text-align: center;
+    margin: 0px 20px;
+}
+.cart sup{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+     font-size: 10px;
+     padding: 0px 5px;
+    border-radius: 60px;
+   
+  
+   
+}
+.cart a{
+    display: block;
+    transform: translatex(-10px);
+    
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+
+.link li{
+    display: inline-block;
+    /* border: 1px solid; */
+    
+    margin: 0px 35px 0px 0px;
+  
+}
+.link li:hover{
+    .con1{
+        display: list-item;
+        transform: translatey(0px);
+        position: fixed;
+        background-color:white;
+        border: 1px black solid;
+        height: 400px;
+       
+        width: 900px;
+        display: flex;
+        justify-content: space-between;
+    }
+  
+    }
+.con1{
+    display: none;
+    color: crimson;
+}
+
+
+.con1 a{
+    display: block;
+
+} 
+
+.faurites{
+   
+    margin: 0px 5px;
+}
+.faurites span{
+    color: red;
+    font-size: 15px;
+}
+

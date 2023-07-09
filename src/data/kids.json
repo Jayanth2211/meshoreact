@@ -1,0 +1,93 @@
+{
+    "kids":[
+        {
+           "id":1,
+           "image":"https://images.meesho.com/images/products/67973981/d2xj0_400.webp" ,
+           "title":"Modern Stylus",
+           "price":224,
+           "rating":4.0
+        },
+        {
+            "id":2,
+            "image":"https://images.meesho.com/images/products/254986717/xtnut_400.webp" ,
+            "title":"Tinkle Funky",
+            "price":191,
+            "rating":3.9
+         },
+        
+         {
+            "id":3,
+            "image":"https://images.meesho.com/images/products/238434284/zibom_400.webp" ,
+            "title":"Cutiepie Funky",
+            "price":196,
+            "rating":3.8
+         },
+        
+         
+         {
+            "id":4,
+            "image":"https://images.meesho.com/images/products/190997361/9t4sr_400.webp" ,
+            "title":"Princess Stylish",
+            "price":170,
+            "rating":3.5
+         },
+         {
+            "id":5,
+            "image":"https://images.meesho.com/images/products/196322718/nczvp_400.webp" ,
+            "title":"Tinkle Stylus",
+            "price":161,
+            "rating":3.7
+         },
+         {
+            "id":6,
+            "image":"https://images.meesho.com/images/products/100850246/qtnoo_400.webp" ,
+            "title":"Cutiepie Trendy",
+            "price":246,
+            "rating":3.8
+         },
+         {
+            "id":7,
+            "image":"https://images.meesho.com/images/products/119862118/w6xww_400.webp" ,
+            "title":"Pretty Stylish",
+            "price":186,
+            "rating":3.9
+         },
+         {
+            "id":8,
+            "image":"https://images.meesho.com/images/products/264841774/rgs9f_400.webp" ,
+            "title":"Agile Trendy",
+            "price":199,
+            "rating":4.1
+         },
+         
+         {
+            "id":9,
+            "image":"https://images.meesho.com/images/products/264267097/oudpm_400.webp" ,
+            "title":"Agile Trendy",
+            "price":183,
+            "rating":3.9
+         },
+         {
+            "id":10,
+            "image":"https://images.meesho.com/images/products/277762209/v3tnj_400.webp" ,
+            "title":"Modern Classy",
+            "price":223,
+            "rating":3.9
+         },
+         
+         {
+            "id":11,
+            "image":"https://images.meesho.com/images/products/282850631/qnalf_400.webp" ,
+            "title":"Flawsome Funky",
+            "price":239,
+            "rating":3.8
+         },
+         {
+            "id":12,
+            "image":"https://images.meesho.com/images/products/256428587/evx5e_400.webp" ,
+            "title":"Stylish Fashionista",
+            "price":243,
+            "rating":3.9
+         }
+    ]
+}

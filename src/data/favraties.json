@@ -1,0 +1,67 @@
+{
+  "fav": [
+    {
+      "id": 8,
+      "image": "https://images.meesho.com/images/products/278021895/8ouut_400.webp",
+      "title": "Trendy Elegant",
+      "price": 155,
+      "rating": 3.9
+    },
+    {
+      "id": 9,
+      "image": "https://images.meesho.com/images/products/243295022/hh3kx_400.webp",
+      "title": "Designer Unique Men",
+      "price": 1208,
+      "rating": 4.1
+    },
+    {
+      "id": 2,
+      "image": "https://images.meesho.com/images/products/22239385/0d08f_400.webp",
+      "title": "Maruti Art Net Embroid",
+      "price": 659,
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "image": "https://images.meesho.com/images/products/238434284/zibom_400.webp",
+      "title": "Cutiepie Funky",
+      "price": 196,
+      "rating": 3.8
+    },
+    {
+      "id": 4,
+      "image": "https://images.meesho.com/images/products/190997361/9t4sr_400.webp",
+      "title": "Princess Stylish",
+      "price": 170,
+      "rating": 3.5
+    },
+    {
+      "id": 5,
+      "image": "https://images.meesho.com/images/products/144102877/pwp7r_400.webp",
+      "title": "Stylish Glamorous",
+      "price": 305,
+      "rating": 3.9
+    },
+    {
+      "id": 7,
+      "image": "https://images.meesho.com/images/products/240406763/y1brn_400.webp",
+      "title": "Trendy Elegant",
+      "price": 181,
+      "rating": 3.6
+    },
+    {
+      "id": 1,
+      "image": "https://images.meesho.com/images/products/105845217/nrcxx_400.webp",
+      "title": "DHUNKI Women",
+      "price": 569,
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "image": "https://images.meesho.com/images/products/70393359/7x5uz_400.webp",
+      "title": "Pretty Modern",
+      "price": 247,
+      "rating": 3.8
+    }
+  ]
+}

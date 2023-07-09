@@ -1,0 +1,57 @@
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    align-items: center;
+}
+.main a{
+    text-decoration: none;
+}
+.mainc{
+    background-color: rgb(248, 248, 255);
+  
+   height: 340px;
+}
+.mainContent{
+    width: 400px;
+    padding: 5px;
+    margin-top: 55px;
+    
+  
+}
+.mainContent a{
+    text-decoration: none;
+    color: black;
+}
+.DelContent{
+    display: flex;
+    margin-left: 10px;
+  align-items: center;
+}
+
+.freeDEl{
+    display: flex;
+    margin-right: 20px;
+}
+.deliveryLink a{
+  
+    display: block;
+    width: 60px;
+
+}
+.vistPlaystore{
+    background-color: rgb(159, 32, 137);
+    display: flex;
+    align-items: center;
+    width: 250px;
+    padding: 3px 5px;
+    margin: 20px 20px;
+   
+}
+.vistPlaystore a{
+    color: white;
+    font-weight: bolder;
+    margin: 5px;
+}
+
+

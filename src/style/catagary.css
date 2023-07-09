@@ -1,0 +1,23 @@
+.catagary{
+    text-align: center;
+}
+.wholeBox{
+    display: flex;
+    
+    
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    margin: 0px 60px;
+    background-image: url("https://images.meesho.com/images/marketing/1678691670429_1200.webp");
+    background-size: cover;
+
+}
+.webstore2{
+    text-align: center;
+    margin: 90px 0px 0px 10px;
+    
+}
+.webstore2 img{
+    margin: 0px 10px;
+}
