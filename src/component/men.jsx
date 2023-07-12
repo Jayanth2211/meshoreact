@@ -10,7 +10,7 @@ const Men = () => {
    
     useEffect(()=>{
         let fetchData=async()=>{
-           let res=await fetch('https://github.com/Jayanth2211/meshoreact/blob/main/src/data/men.json')
+           let res=await fetch(''http://localhost:6600/men'')
             let data=await res.json()
             setMen(data)
             setDomi(data)
