@@ -119,7 +119,7 @@ person
                     
                    
                    
-                    <li><a href="" id="bags">Bags & Footwear</a></li>
+                  
                     <li><Link to="/electron">Electronic</Link></li>
                 </ul>
               </div>
