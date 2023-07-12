@@ -7,7 +7,7 @@ const Men = () => {
     let [domi,setDomi]=useState([])
     let [favr,setFavr]=useState("")
     let nav=useNavigate()
-    let rmen=[]
+   
     useEffect(()=>{
         let fetchData=async()=>{
            let res=await fetch('http://localhost:6600/men')
@@ -18,6 +18,26 @@ const Men = () => {
         }
         fetchData()
     },[])
+
+    
+    let addFav=(id)=>{
+        
+      let res=men.filter((x)=>{
+          if(x.id==id){
+            let title=x.title
+            let image=x.image
+             let price=x.price
+             let rating=x.rating
+              fetch("http://localhost:10000/fav",{
+          method:'POST',
+          headers:{'Content-Type' : 'application/json'},
+         
+          body:JSON.stringify({title,image,price,rating})
+      })
+          }
+      })
+      alert("added to favrates")
+    }
 // posting the data to car.json
 let cart=(id)=>{
   men.filter((x)=>{
@@ -136,11 +156,13 @@ let cart=(id)=>{
                           </div>
                           <div className="details">
                           <p className="h1p">{x.title}</p>
-                         <span>&#x2661;</span>
+                         <span onClick={()=>addFav(x.id)}>&#x2661;</span>
                           <h6 className="h1p">&#8377;{x.price}</h6>
                          <small> <small>Free Delivary</small></small>
                           <span id="rat">{x.rating}&#9734;</span>
-                          <button onClick={()=>cart(x.id)} id="addcart">Add to Cart</button>
+                          <button onClick={()=>cart(x.id)} className="btn btn-outline-secondary " id="addcart" ><ion-icon name="cart-outline"></ion-icon>
+Add to Cart</button>
+                         
                           </div>
                         </div>
                     )

@@ -1,0 +1,138 @@
+{
+    "electronics":[
+        {
+            "id":1,
+            "type":"camara",
+            "image":"https://rukminim2.flixcart.com/image/612/612/kamtsi80/dslr-camera/v/q/d/x-t4-26-mp-x-t4-fujifilm-original-imafs5jw3dtem9pp.jpeg?q=70",
+            "title":"FUJIFILM X",
+            "price":19000,
+            "rating":4.4
+        },
+        {
+            "id":2,
+            "type":"camara",
+            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/dslr-camera/p/b/w/2ca11623-40-x-h2-fujifilm-original-imagjzuzhgtmvmcv.jpeg?q=70",
+            "title":"FUJIFILM H2",
+            "price":21000,
+            "rating":4.3
+        },
+        {
+            "id":5,
+            "type":"charger",
+            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/p/p/n/33w-vooc-dart-wrap-rt01-with-type-c-cable-charging-adapter-original-imagkyzfazyzdjau.jpeg?q=70",
+            "title":"SB 33 W Dash ",
+            "price":509,
+            "rating":3.7
+        },
+        {
+            "id":6,
+            "type":"charger",
+            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/0/d/a/type-c-charger-for-zte-nubia-z18-qc-2-4-rapid-mi-vooc-afc-original-imagz4rzqyukhxvz.jpeg?q=70",
+            "title":"UrCart 18 W ",
+            "price":440,
+            "rating":3.5
+        },
+        {
+            "id":13,
+            "type":"powerbank",
+            "image":"https://rukminim2.flixcart.com/image/612/612/l5fnhjk0/power-bank/d/h/v/-original-imagg3utehnksuqz.jpeg?q=70",
+            "title":"ORAIMO 20000 mAh",
+            "price":999,
+            "rating":4.1
+        },
+        {
+            "id":14,
+            "type":"powerbank",
+            "image":"https://rukminim2.flixcart.com/image/416/416/l5fnhjk0/power-bank/u/v/f/-original-imagg3utd8nzx6hu.jpeg?q=70",
+            "title":"ORAIMO 20000 mAh",
+            "price":899,
+            "rating":4.0
+        },
+        
+        {
+            "id":11,
+            "type":"trimer",
+            "image":"https://rukminim2.flixcart.com/image/416/416/l1nwnm80/trimmer/d/h/a/1-12-mm-mg3710-65-stainless-steel-cordless-philips-original-imagd69ektvggrf8.jpeg?q=70",
+            "title":"PHILIPS MG37",
+            "price":599,
+            "rating":4.7
+        },
+        {
+            "id":12,
+            "type":"trimer",
+            "image":"https://rukminim2.flixcart.com/image/612/612/kuof5ow0/trimmer/7/z/f/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7r4r7ztgnuyk.jpeg?q=70",
+            "title":"NOVA NHT",
+            "price":699,
+            "rating":4.8
+        },
+
+        {
+            "id":3,
+            "type":"camara",
+            "image":"https://rukminim2.flixcart.com/image/612/612/jfbfde80/camera/n/r/n/canon-eos-3000d-original-imaf3t5hjrz6zzzc.jpeg?q=70",
+            "title":"Canon EOS 3000D",
+            "price":22000,
+            "rating":4.5
+        },
+        {
+            "id":4,
+            "type":"camara",
+            "image":"https://rukminim2.flixcart.com/image/612/612/kk01pjk0/sports-action-camera/6/o/g/action-shot-hd-action-shot-full-hd-12mp-1080p-black-helmet-original-imafzg4utqgwtfsv.jpeg?q=70",
+            "title":"ALA Sports ",
+            "price":25000,
+            "rating":4.0
+        },
+      
+        
+        {
+            "id":7,
+            "type":"charger",
+            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/e/e/r/45w-usb-c-nothing-phone-1-charger-power-adapter-jazx-original-imagquwscah2zkfb.jpeg?q=70",
+            "title":"Jazx 45 W ",
+            "price":540,
+            "rating":4.1
+        },
+        {
+            "id":8,
+            "type":"charger",
+            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/battery-charger/6/m/a/30w-4amp-fast-quick-vooc-charger-for-oppo-f19-pro-pro-f17-pro-original-imagghx4hk2uctfw.jpeg?q=70",
+            "title":"SEYLFON 30 W",
+            "price":599,
+            "rating":4.2
+        },
+        {
+            "id":9,
+            "type":"trimer",
+            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/k/7/v/1-7-mm-bt1233-18-stainless-steel-cordless-philips-original-imagzgwgrdtxhgbu.jpeg?q=70",
+            "title":"PHILIPS BT12",
+            "price":599,
+            "rating":4.1
+        },
+        {
+            "id":10,
+            "type":"trimer",
+            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/e/y/d/-original-imagpvfbvzyydyff.jpeg?q=70",
+            "title":"VEGA SmartOne",
+            "price":799,
+            "rating":4.1
+        },
+        {
+            "id":15,
+            "type":"powerbank",
+            "image":"https://rukminim2.flixcart.com/image/416/416/l5fnhjk0/power-bank/m/f/z/-original-imagg3utnefgyxkh.jpeg?q=70",
+            "title":"Redmi 20000 mAh",
+            "price":999,
+            "rating":4.3
+        },
+        {
+            "id":16,
+            "type":"powerbank",
+            "image":"https://rukminim2.flixcart.com/image/416/416/kqqykcw0/power-bank/9/8/d/pp-20-pro-pp-20-pro-ambrane-original-imag4zzhcfhgnnmw.jpeg?q=70",
+            "title":"Ambrane 20000 mAh",
+            "price":1119,
+            "rating":4.4
+        }
+
+    ]
+    
+}

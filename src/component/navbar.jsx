@@ -6,14 +6,15 @@ import { useRef, useState ,useEffect} from "react"
 import "../style/navbar.css"
 import { useNavigate } from "react-router-dom"
 import playstore from "../image/playstore.png"
+import applestore from "../image/appstore-icon-big.png"
 import { Link } from "react-router-dom"
 import carts from "../image/ecart.png"
 const Navbar = () => {
     let navigat=useNavigate()
 
-    let lin=useRef("")
+   
     let sigup=()=>{
-      lin.current.style.display="none"
+     
      navigat("/sign")
     }
 
@@ -59,8 +60,10 @@ phone_iphone
             <a href="">Download All</a>
         </div>
         <div className="downConntent">
-                <h4>Download Form</h4>
-                <Link to='https://play.google.com/store/apps/details?id=com.meesho.supply&pid=pow_website&c=pow'><img src={playstore} alt="" height={30} width={130} /></Link>
+                <h6>Download Form</h6>
+                <Link style={{display:"block",marginBottom:"5px"}} to='https://play.google.com/store/apps/details?id=com.meesho.supply&pid=pow_website&c=pow'><img src={playstore} alt="" height={30} width={130} /></Link>
+                <Link to='https://apps.apple.com/us/app/meesho/id1457958492'><img src={applestore} alt="" height={30} width={130} /></Link>
+                
             </div>
       </div>|
       <div className="faurites">
@@ -105,62 +108,19 @@ person
                 </div>
                
                
-              <div className="link" ref={lin}>
+              <div className="link" >
                 <ul>
-                    <li><a href="">Women Ethnic</a>
-                    <div className="con1">
-                        <div className="whomenEnthic">
-                        <h3>All Women Ethnic</h3>
-                        <a href="">View All</a>
-
-           
-                        </div>
-                        <div className="Bottomwear">
-                            <h3>saries</h3>
-                        <a href="">All Sarees</a>
-                        <a href="">Silk Sarees</a>
-                        <a href="">Cotton Silk Sarees</a>
-                        <a href="">Cotton Sarees</a>
-                        <a href="">Georgette Sarees</a>
-                        <a href="">Chiffon Sarees</a>
-                        <a href="">Satin Sarees</a>
-                        <a href="">Embroidered Sarees</a>
-
-
-                        </div>
-
-                        <div className="kurthies">
-                        <h3>Kurtis</h3>
-                        <a href="">All Kurtis</a>
-                        <a href="">Anarkali Kurtis</a>
-                        <a href="">Cotton Silk Sarees</a>
-                        <a href="">Rayon Kurtis</a>
-                        <a href="">Cotton Kurtis</a>
-                        <a href="">Embroidered Kurtis</a>
-                        </div>
-                        <div className="Kurta">
-                      <h3>Kurta Sets</h3>
-                      <a href="">All Kurta Sets</a>
-                        </div>
-
-                        <div className="Suits">
-                            <h3>Suits & Dress Material</h3>
-                            <a href=""> All Suits & Dress Material</a>
-                            <a href="">Cotton Suits</a>
-                            <a href="">Embroidered Suits</a>
-                            <a href="">Chanderi Suits</a>
-                              </div>
-
-
-                        </div></li>
-                    <li><a href="">Women Western</a></li>
+                    
+                    
+                        
+                    <li><Link to="/women">Women</Link></li>
                     <li><Link to="/men">Men</Link></li>
-                    <li><a href="">Kids</a></li>
-                    <li><a href="">Home & Kitchen</a></li>
-                    <li><a href="">Beauty & Health</a></li>
-                    <li><a href="">Jewellery & Accessories</a></li>
-                    <li><a href="">Bags & Footwear</a></li>
-                    <li><a href="">Electronic</a></li>
+                    <li><Link to="/kid">Kids</Link></li>
+                    
+                   
+                   
+                    <li><a href="" id="bags">Bags & Footwear</a></li>
+                    <li><Link to="/electron">Electronic</Link></li>
                 </ul>
               </div>
       

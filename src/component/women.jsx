@@ -31,12 +31,15 @@ const Women = () => {
         
         let res=women.filter((x)=>{
             if(x.id==id){
-                console.log(x);
+              let title=x.title
+              let image=x.image
+               let price=x.price
+               let rating=x.rating
                 fetch("http://localhost:10000/fav",{
             method:'POST',
             headers:{'Content-Type' : 'application/json'},
            
-            body:JSON.stringify(x)
+            body:JSON.stringify({title,image,price,rating})
         })
             }
         })
@@ -189,7 +192,8 @@ alert("added successfull")
                  <small>Free Delivary</small>
                  <h4 id="rat">{x.rating}*</h4>
 
-                 <button onClick={()=>addcart(x.id)} id="addcart">add to cart</button>
+                 <button onClick={()=>addcart(x.id)} className="btn btn-outline-secondary " id="addcart" ><ion-icon name="cart-outline"></ion-icon>
+Add to Cart</button>
 
                     </div>
                 )

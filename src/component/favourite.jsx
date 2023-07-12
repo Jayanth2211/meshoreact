@@ -31,9 +31,9 @@ const Favourites = () => {
                  </div>
                  <p  className="h1p" >{x.title}</p>
                
+                 <span onClick={()=>del(x.id)}>&#x2661;</span>
                  
                  
-                 <button onClick={()=>del(x.id)}>&#x2661;</button>
                  
                  <h3 className="h1p">&#8377;{x.price} </h3>
                  <small>Free Delivary</small>

@@ -40,6 +40,9 @@ display: flex;
   
    outline: none;
 }
+.serchbar input::placeholder{
+    font-size: 12px;
+}
 .navbar a{
     font-size: 15px;
 }
@@ -72,8 +75,11 @@ display: flex;
 }
 .downConntent{
   display: none;
-  background-color: black;
-  color:white;
+  background-color:white;
+  color:black;
+  padding: 10px 0px;
+  border-radius: 10px;
+  border: #152737;
  
     }
 .download1:hover{
@@ -138,6 +144,7 @@ display: flex;
     display: none;
     margin-top: 1px;
     padding: 5px;
+    color: black;
     background-color:whitesmoke;
    transform: translatex(-40px);
 }
@@ -181,6 +188,10 @@ display: flex;
     transform: translatex(-10px);
     
 }
+.link{
+    border: goldenrod solid 2px;
+    height: 30px;
+}
 .link a{
     text-decoration: none;
     color: white;
@@ -191,34 +202,14 @@ display: flex;
     display: inline-block;
     /* border: 1px solid; */
     
-    margin: 0px 35px 0px 0px;
+    margin: 0px 0px 0px 90px;
   
 }
-.link li:hover{
-    .con1{
-        display: list-item;
-        transform: translatey(0px);
-        position: fixed;
-        background-color:white;
-        border: 1px black solid;
-        height: 400px;
-       
-        width: 900px;
-        display: flex;
-        justify-content: space-between;
-    }
-  
-    }
-.con1{
-    display: none;
-    color: crimson;
+
+#bags{
+    margin-left: 200px;
 }
 
-
-.con1 a{
-    display: block;
-
-} 
 
 .faurites{
    

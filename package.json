@@ -1,7 +1,7 @@
 {
   "name": "mesho",
   "version": "0.1.0",
-  "homepage": "https://jayanth2211.github.io/project",
+  "homepage": "https://jayanth2211.github.io/meshoreact",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

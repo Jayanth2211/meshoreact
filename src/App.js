@@ -9,6 +9,8 @@ import Women from './component/women';
 import Men from './component/men';
 import Favourites from './component/favourite';
 import Kids from './component/kids';
+import Electronic from './component/electronics';
+
 
 
 
@@ -30,6 +32,7 @@ function App() {
         <Route path='/sign' element={<SignUp/>}/>
         <Route path='/women' element={<Women/>}/>
         <Route path='/men' element={<Men/>}/>
+        <Route path='/electron' element={<Electronic/>}/>
         <Route path='/fav' element={<Favourites/>}/>
         <Route path='/kid' element={<Kids/>}/>
        

@@ -7,15 +7,7 @@
     border-radius: 5px;
     border: 1px rgba(169, 169, 169, 0.413) solid;
 }
-.menss:hover{
-    .details{
-    transform: translateY(-20px);
-    transition: 1s;
-   
-    width: 185px;
-    background-color: white;
-    }
-}
+
 .sidebar{
     width: 200px;
     
@@ -52,9 +44,10 @@ width: 100px;
     width: 150px;
 }
 #addcart{
-    background-color: goldenrod;
+    /* background-color: goldenrod;
     border: none;
     border-radius: 5px;
-    font-size: 12px;
-    width: 100px;
+    font-size: 9px;
+    width: 100px; */
+   
 }
