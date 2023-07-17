@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/meshoreact/static/css/main.a5ac4079.css",
-    "main.js": "/meshoreact/static/js/main.1dc1868e.js",
+    "main.css": "/meshoreact/static/css/main.021312f0.css",
+    "main.js": "/meshoreact/static/js/main.6d46716c.js",
     "static/js/787.2a7a476f.chunk.js": "/meshoreact/static/js/787.2a7a476f.chunk.js",
     "static/media/womenclothing.webp": "/meshoreact/static/media/womenclothing.43bbdf70f21ce7f59cb6.webp",
     "static/media/cod.svg": "/meshoreact/static/media/cod.4c04d0a3d03c47e7904a1e8b47db7324.svg",
@@ -12,12 +12,12 @@
     "static/media/Meeshologo.svg": "/meshoreact/static/media/Meeshologo.0904b9dac4fac8521f3b4ff458be0531.svg",
     "static/media/easyReturns.svg": "/meshoreact/static/media/easyReturns.0960a7656bc249c3ff1726c34e718833.svg",
     "index.html": "/meshoreact/index.html",
-    "main.a5ac4079.css.map": "/meshoreact/static/css/main.a5ac4079.css.map",
-    "main.1dc1868e.js.map": "/meshoreact/static/js/main.1dc1868e.js.map",
+    "main.021312f0.css.map": "/meshoreact/static/css/main.021312f0.css.map",
+    "main.6d46716c.js.map": "/meshoreact/static/js/main.6d46716c.js.map",
     "787.2a7a476f.chunk.js.map": "/meshoreact/static/js/787.2a7a476f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5ac4079.css",
-    "static/js/main.1dc1868e.js"
+    "static/css/main.021312f0.css",
+    "static/js/main.6d46716c.js"
   ]
 }
