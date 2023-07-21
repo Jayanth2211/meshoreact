@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/meshoreact/static/css/main.021312f0.css",
-    "main.js": "/meshoreact/static/js/main.6d46716c.js",
+    "main.css": "/meshoreact/static/css/main.a1163153.css",
+    "main.js": "/meshoreact/static/js/main.7e6a7488.js",
     "static/js/787.2a7a476f.chunk.js": "/meshoreact/static/js/787.2a7a476f.chunk.js",
+    "static/media/imgbin_anushka-sharma-pk-bollywood-png.png": "/meshoreact/static/media/imgbin_anushka-sharma-pk-bollywood-png.609065ab843df6cbfbfc.png",
+    "static/media/favpng_virat-kohli-tissot-watch-advertising-brand.png": "/meshoreact/static/media/favpng_virat-kohli-tissot-watch-advertising-brand.8bdfcef440305dcc6f5f.png",
+    "static/media/pngimg.com - children_PNG18046.png": "/meshoreact/static/media/pngimg.com - children_PNG18046.684db1dc778e3cc41e4f.png",
     "static/media/womenclothing.webp": "/meshoreact/static/media/womenclothing.43bbdf70f21ce7f59cb6.webp",
     "static/media/cod.svg": "/meshoreact/static/media/cod.4c04d0a3d03c47e7904a1e8b47db7324.svg",
     "static/media/mainImage.webp": "/meshoreact/static/media/mainImage.e40de0fff6972d38efda.webp",
     "static/media/menStore.webp": "/meshoreact/static/media/menStore.2baaf3267be5827b5926.webp",
     "static/media/freeDelivery.svg": "/meshoreact/static/media/freeDelivery.d9846832e8d6cbd506f5eba06741afac.svg",
     "static/media/kidsStore.webp": "/meshoreact/static/media/kidsStore.013cd5389579ad42d194.webp",
+    "static/media/home.webp": "/meshoreact/static/media/home.f257dfd9e1dca603cbe0.webp",
+    "static/media/offer-9677.svg": "/meshoreact/static/media/offer-9677.0028de7195a0c66538571032c422e17d.svg",
     "static/media/Meeshologo.svg": "/meshoreact/static/media/Meeshologo.0904b9dac4fac8521f3b4ff458be0531.svg",
     "static/media/easyReturns.svg": "/meshoreact/static/media/easyReturns.0960a7656bc249c3ff1726c34e718833.svg",
     "index.html": "/meshoreact/index.html",
-    "main.021312f0.css.map": "/meshoreact/static/css/main.021312f0.css.map",
-    "main.6d46716c.js.map": "/meshoreact/static/js/main.6d46716c.js.map",
+    "main.a1163153.css.map": "/meshoreact/static/css/main.a1163153.css.map",
+    "main.7e6a7488.js.map": "/meshoreact/static/js/main.7e6a7488.js.map",
     "787.2a7a476f.chunk.js.map": "/meshoreact/static/js/787.2a7a476f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.021312f0.css",
-    "static/js/main.6d46716c.js"
+    "static/css/main.a1163153.css",
+    "static/js/main.7e6a7488.js"
   ]
 }
