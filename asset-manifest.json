@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/meshoreact/static/css/main.a1163153.css",
-    "main.js": "/meshoreact/static/js/main.7e6a7488.js",
+    "main.js": "/meshoreact/static/js/main.1d99a66c.js",
     "static/js/787.2a7a476f.chunk.js": "/meshoreact/static/js/787.2a7a476f.chunk.js",
     "static/media/imgbin_anushka-sharma-pk-bollywood-png.png": "/meshoreact/static/media/imgbin_anushka-sharma-pk-bollywood-png.609065ab843df6cbfbfc.png",
     "static/media/favpng_virat-kohli-tissot-watch-advertising-brand.png": "/meshoreact/static/media/favpng_virat-kohli-tissot-watch-advertising-brand.8bdfcef440305dcc6f5f.png",
@@ -18,11 +18,11 @@
     "static/media/easyReturns.svg": "/meshoreact/static/media/easyReturns.0960a7656bc249c3ff1726c34e718833.svg",
     "index.html": "/meshoreact/index.html",
     "main.a1163153.css.map": "/meshoreact/static/css/main.a1163153.css.map",
-    "main.7e6a7488.js.map": "/meshoreact/static/js/main.7e6a7488.js.map",
+    "main.1d99a66c.js.map": "/meshoreact/static/js/main.1d99a66c.js.map",
     "787.2a7a476f.chunk.js.map": "/meshoreact/static/js/787.2a7a476f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1163153.css",
-    "static/js/main.7e6a7488.js"
+    "static/js/main.1d99a66c.js"
   ]
 }
